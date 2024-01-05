@@ -1,0 +1,1 @@
+This is a mockup of how the DebugUnderPilot directory could look like in S1. The revision.txt and BuildDate.txt values are from MK8 Kiosk's debug directory. We know they exist in S1 because of RPX strings. The AgingScript directory is from S2 Global Testfire. It most likely does not exist in the S1 source code, but included regardless.

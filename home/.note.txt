@@ -1,0 +1,1 @@
+At some point in development, the "Cafe" directory used to be named "CafeProject". This is seen in S1 Demo's RPX strings.
